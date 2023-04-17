@@ -1,1 +1,1 @@
-number = input("Enter number as +000000000000 starting with country code:\n")
+number = input("+6281344116977:\n")
